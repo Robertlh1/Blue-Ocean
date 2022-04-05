@@ -24,7 +24,7 @@ I was in charge of the profiles section which is the core of the site that every
 * Allows students to book appointments with mentors via Google Calendar integration
 * Allows mentors and students to communicate via embedded video chat and instant messaging implemented via Socket.io
 
-## Tech stack ( you can include logos)
+## Tech stack
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
