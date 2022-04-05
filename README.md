@@ -19,9 +19,12 @@ The client requested a learning site where users could sign up as either student
 I was in charge of the profiles section which is the core of the site that everything else connects through, and it was a really fun experience for me working with the rest of the team to ensure that everything worked well together.
 
 ## Video Demo
-* Profile Demo
+Profile Demo:
+
 https://user-images.githubusercontent.com/91442319/161862481-8100eedf-13a1-43f7-bf5b-0ee74957f670.mp4
-* Calendar Demo
+
+Calendar Demo:
+
 https://user-images.githubusercontent.com/93063638/161448974-65bf137f-39de-4305-9aea-2824fd2d88e6.mp4
 
 ## What does the app do?
