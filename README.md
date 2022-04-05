@@ -18,15 +18,6 @@ The client requested a learning site where users could sign up as either student
 
 I was in charge of the profiles section which is the core of the site that everything else connects through, and it was a really fun experience for me working with the rest of the team to ensure that everything worked well together.
 
-## Video Demo
-Profile Demo:
-
-https://user-images.githubusercontent.com/91442319/161862481-8100eedf-13a1-43f7-bf5b-0ee74957f670.mp4
-
-Calendar Demo:
-
-https://user-images.githubusercontent.com/93063638/161448974-65bf137f-39de-4305-9aea-2824fd2d88e6.mp4
-
 ## What does the app do?
 * Authenticates user login information via OAuth 2.0
 * Allows mentors to select skills that they want to tutor in
@@ -44,3 +35,12 @@ https://user-images.githubusercontent.com/93063638/161448974-65bf137f-39de-4305-
 ![Google Calendar API](https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=OAuth&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-4285F4?style=for-the-badge&logo=socket.io&logoColor=white)
+
+## Video Demo
+Profile Demo:
+
+https://user-images.githubusercontent.com/91442319/161862481-8100eedf-13a1-43f7-bf5b-0ee74957f670.mp4
+
+Calendar Demo:
+
+https://user-images.githubusercontent.com/93063638/161448974-65bf137f-39de-4305-9aea-2824fd2d88e6.mp4
